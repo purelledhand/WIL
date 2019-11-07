@@ -62,6 +62,8 @@ orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으�
     <br />
     https://serverless.com/learn/courses/serverless-for-frontend-developers/
     <br />
+    event-driven concept
+    <br />
   </sup>
     <h4>V8</h4>
   <sup>

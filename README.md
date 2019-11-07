@@ -26,7 +26,6 @@
 <div>
 <h4>filesystem</h4>
   <sup>
-    <br />
 wen-xu, file  system fuzzing 논문 리딩
   <br />
     TSK in Hikvision
@@ -38,7 +37,6 @@ wen-xu, file  system fuzzing 논문 리딩
   </sup>
   <h4>Web</h4>
   <sup>
-    <br />
 REST API 논문 리딩
   <br />
     JEST로 react unit test 코드 작성하기
@@ -50,7 +48,6 @@ REST API 논문 리딩
   </sup>
   <h4>Devops</h4>
   <sup>
-    <br />
 orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으로 해결할 수 있는 부분 포스팅하기
   <br />
     S3에 파일 올릴때마다 Cloudfront 캐시 무효화하는 람다 스크립트 완성하기

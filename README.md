@@ -60,6 +60,8 @@ orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으�
   <br />
     https://github.com/serverless/examples/tree/master/aws-node-graphql-api-with-dynamodb
     <br />
+    https://serverless.com/learn/courses/serverless-for-frontend-developers/
+    <br />
   </sup>
     <h4>V8</h4>
   <sup>

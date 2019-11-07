@@ -35,7 +35,7 @@ wen-xu, file  system fuzzing 논문 리딩
     Google, GFS 논문 리딩
   <br />
   </sup>
-  <h4>Web</h4>
+  <h4>Web System Engineernig (high-level)</h4>
   <sup>
 REST API 논문 리딩
   <br />
@@ -44,6 +44,8 @@ REST API 논문 리딩
     가벼운 토이프로젝트 Redux, Mobx로 마이그레이션하면서 상태관리 해보기 context API로 anti-redux하기
   <br />
     Redux나 Mobx로 상태관리 하고있는 가벼운 토이프로젝트 Context API로 anti-redux하기
+  <br />
+    재현이랑 DB 트랜잭션 원리 정리
   <br />
   </sup>
   <h4>Devops</h4>

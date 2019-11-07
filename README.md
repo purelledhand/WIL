@@ -54,6 +54,8 @@ orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으�
   <br />
     S3에 파일 올릴때마다 Cloudfront 캐시 무효화하는 람다 스크립트 완성하기
   <br />
+    개인 페이지 serverless architecture : Fauna + AWS lambda + netlify (토폴로지 그려놓기)
+  <br />
   </sup>
     <h4>V8</h4>
   <sup>
@@ -63,7 +65,7 @@ https://velog.io/@godori/JavaScript-engine-1
   <br />
     v8 터보팬
   <br />
-    v8 인터널
+    v8 인터널 (빌드 다들 어느정도 걸리는지 물어보기)
   <br />
   </sup>
 </div>

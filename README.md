@@ -5,7 +5,7 @@
     ️📝
     <br />
     <br />
-    WIL - What I want to Learn
+    WIL : What I want to Learn
     <br />
     <br />
     <br />

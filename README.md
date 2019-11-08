@@ -41,6 +41,8 @@ REST API 논문 리딩
   <br />
     JEST로 react unit test 코드 작성하기
   <br />
+    https://github.com/larrybotha/testing-javascript
+    <br />
     가벼운 토이프로젝트 Redux, Mobx로 마이그레이션하면서 상태관리 해보기
   <br />
     가벼운 토이프로젝트 Context API로 anti-redux하기

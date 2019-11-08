@@ -58,6 +58,8 @@ orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으�
   <br />
     개인 페이지 serverless architecture : Fauna + AWS lambda + netlify (토폴로지 그려놓기)
   <br />
+    고민 : Fauna DB -> DB 비용 X, 다른 리전일 경우 네트워크 트래픽 비용이 발생할 수 있음 / RDS -> 네트워크 비용X, DB 비용O / 두 경우 비용 비교하기
+  <br />
     https://github.com/netlify/netlify-faunadb-example
   <br />
     https://github.com/serverless/examples/tree/master/aws-node-graphql-api-with-dynamodb

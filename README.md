@@ -50,7 +50,7 @@ REST API 논문 리딩
     재현이랑 DB 트랜잭션 원리 정리
   <br />
     
-   [Discord가 React-Native 로 iOS에서 Native 수준의 퍼포먼스를 낸 방법](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) : 크롬 프로파일러와 React 프로파일러를 이용해서 느린 부분을 찾고 해결한 방법들 정리
+   [Discord가 React-Native로 iOS에서 Native 수준의 퍼포먼스를 낸 방법](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) : 크롬 프로파일러와 React 프로파일러를 이용해서 느린 부분을 찾고 해결한 방법들 정리
     
   </sup>
   <h4>Devops</h4>

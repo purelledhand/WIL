@@ -28,7 +28,7 @@
   <sup>
 wen-xu, file  system fuzzing 논문 리딩
   <br />
-    TSK in Hikvision
+    TSK, Hikvision
   <br />
     Facebook, find a needle in the haystack 논문 리딩 (엄밀히 나누면 Filesystem이라기 보단 Storage Architecture)
   <br />

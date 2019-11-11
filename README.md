@@ -43,7 +43,7 @@ REST API 논문 리딩
   <br />
     https://github.com/larrybotha/testing-javascript
     <br />
-    11/11일에 느낀 MVC, MVVP, FLUX 패턴 vue/react 관점에서 생각난거 정리하기
+    11/11일에 느낀 MVC, MVVP, FLUX 패턴 vue/react 관점에서 생각난거 정리하기 (model - view 사이에서 바인딩이 발생할때의 문제점 등)
   <br />
     가벼운 토이프로젝트 Redux, Mobx로 마이그레이션하면서 상태관리 해보기
   <br />

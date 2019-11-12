@@ -82,6 +82,11 @@ orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으�
     event-driven concept
     <br />
   </sup>
+  <h4>Android</h4>
+  <sup>
+nmap으로 포트 별 서비스 버전 스캔 후 서비스 버전 별 CVE 알려주는 앱 개발
+  <br />
+  </sup>
     <h4>V8</h4>
   <sup>
 <br />

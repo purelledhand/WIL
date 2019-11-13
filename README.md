@@ -55,6 +55,8 @@ REST API 논문 리딩
   <br />
     재현이랑 DB 트랜잭션 원리 정리
     <br />
+    Virtual DOM, DOM and Render in Browsers 과정 정리
+    <br />
     자동으로 Rest API Document 만들어주는 서비스
   <br />
     https://yesno.wtf/api 사용해서 결정장애왔을때 바로 답받아서 카톡으로 보내주는 서비스 (IFTTT?)

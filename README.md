@@ -68,7 +68,7 @@ REST API 논문 리딩
     <br />
     Virtual DOM, DOM and Render in Browsers 과정 정리
     <br />
-    Dalvic, ART 비교하면서 유저가 설치하는 시간은 오래걸려도 신경쓰지않는다고 했던 거랑 클라이언트 렌더링이랑 엮은 글 쓰기
+    Dalvik, ART 비교하면서 유저가 설치하는 시간은 오래걸려도 신경쓰지않는다고 했던 거랑 클라이언트 렌더링이랑 엮은 글 쓰기
   <br />
     자동으로 Rest API Document 만들어주는 서비스
   <br />

@@ -53,6 +53,8 @@ REST API 논문 리딩
   <br />
     가벼운 토이프로젝트 Context API로 anti-redux하기
   <br />
+    SCE338 Project FE Scaffold 정리
+    <br />
     재현이랑 DB 트랜잭션 원리 정리
     <br />
     Dan Abramov의 리액트 라이브 : Hot Reloading으로 시간 여행 떠나기 :  https://www.youtube.com/watch?v=xsSnOQynTHs

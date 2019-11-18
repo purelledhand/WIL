@@ -55,6 +55,8 @@ REST API 논문 리딩
   <br />
     재현이랑 DB 트랜잭션 원리 정리
     <br />
+    Dan Abramov의 리액트 라이브 : Hot Reloading으로 시간 여행 떠나기 :  https://www.youtube.com/watch?v=xsSnOQynTHs
+    <br />
     Virtual DOM, DOM and Render in Browsers 과정 정리
     <br />
     자동으로 Rest API Document 만들어주는 서비스

@@ -76,6 +76,7 @@ REST API 논문 리딩
     <br/>
     스타벅스에서 호감있는 여성끼리 친해질 수 있는 서비스.. (내 앞에 여성분 나랑 굿즈취향도 잘맞고, 키보드랑 스탠드 세팅해서 일하는 모습 너무 멋지당.. 친해지고 싶당..)
   <br />
+   <br />
     
    [Discord가 React-Native로 iOS에서 Native 수준의 퍼포먼스를 낸 방법](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) : 크롬 프로파일러와 React 프로파일러를 이용해서 느린 부분을 찾고 해결한 방법들 정리
     

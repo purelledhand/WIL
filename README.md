@@ -83,6 +83,8 @@ REST API 논문 리딩
   </sup>
   <h4>Devops</h4>
   <sup>
+https://github.com/aphyr/distsys-class
+<br />
 orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으로 해결할 수 있는 부분 포스팅하기
   <br />
     S3에 파일 올릴때마다 Cloudfront 캐시 무효화하는 람다 스크립트 완성하기

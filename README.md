@@ -106,6 +106,8 @@ orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으�
   <sup>
 nmap으로 포트 별 서비스 버전 스캔 후 서비스 버전 별 CVE 알려주는 앱 개발
   <br />
+  여권 안잃어버리게 최근장소 적어놓고 일정시간/장소이동 단위로 리마인딩해주는
+  <br />
   </sup>
     <h4>V8</h4>
   <sup>

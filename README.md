@@ -41,9 +41,11 @@ wen-xu, file  system fuzzing 논문 리딩
   </sup>
   <h4>Project Scaffolding</h4>
   <sup>
-  Gymana : FE Project Scaffolding 정리
+  Fitmin : FE Project Scaffolding 정리
   <br />
   UnifoCS : Project Scaffolding 정리
+  <br />
+  sohye.space : serverless architecture + scaffolding정리
   <br />
   </sup>
   <h4>Web System Engineering</h4>

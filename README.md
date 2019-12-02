@@ -63,6 +63,12 @@ REST API 논문 리딩
     가벼운 토이프로젝트 Context API로 anti-redux하기
   <br />
     SCE338 Project FE Scaffold 정리
+    <br/>
+    https://github.com/sophiebits/react-dom-mini 공부
+    <br/>
+    마이크로서비스 컨셉이랑 FE 고도화된 컨셉 공통점(presentation/logic/data에서 (presentation/logic/data)*n으로) 비교해서 글쓰기
+    <br/>
+    SCE338 Project FE Scaffold 정리
     <br />
     재현이랑 DB 트랜잭션 원리 정리
     <br />

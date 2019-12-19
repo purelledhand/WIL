@@ -48,13 +48,14 @@
 | 태그     | 내용                                                         |
 | -------- | ------------------------------------------------------------ |
 | 논문리딩 | REST API 논문 리딩                                           |
-| Jest     | JEST로 react unit test 코드 작성                             |
+| 정리     | JEST로 react unit test 코드 작성                             |
 | 정리     | https://github.com/larrybotha/testing-javascript             |
 | 정리     | Virtual DOM Reconciliation Process                           |
 | 정리     | 11/11일에 느낀 MVC, MVVP, FLUX 패턴 vue/react 관점에서 생각난거 정리하기 (model - view 사이에서 바인딩이 발생할때의 문제점 등) |
 | 프로젝트 | 가벼운 토이프로젝트 Redux, Mobx로 마이그레이션하면서 상태관리 해보기 |
 | 프로젝트 | 가벼운 토이프로젝트 Context API로 anti-redux하기             |
 | 정리     | 재현이랑 DB 트랜잭션 원리 스터디                             |
+| 정리     | Virtual DOM Custom 관점에서 React vs. Vue 풀어내기                            |
 | 정리     | Dalvik, ART 비교하면서 유저가 설치하는 시간은 오래걸려도 신경쓰지않는다고 했던 거랑 클라이언트 렌더링이랑 엮은 글 쓰기 |
 | 프로젝트 | 자동으로 Rest API Document 만들어주는 서비스                 |
 | 프로젝트 | ㅆㅇㅇㄷ ㄹㅌㅈ                                              |

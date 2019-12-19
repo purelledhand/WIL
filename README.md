@@ -51,17 +51,17 @@
 | 정리     | JEST로 react unit test 코드 작성                             |
 | 정리     | https://github.com/larrybotha/testing-javascript             |
 | 정리     | Virtual DOM Reconciliation Process                           |
-| 정리     | 11/11일에 느낀 MVC, MVVP, FLUX 패턴 vue/react 관점에서 생각난거 정리하기 (model - view 사이에서 바인딩이 발생할때의 문제점 등) |
+| 정리     | 11/11일에 느낀 MVC, MVVP, FLUX 패턴 vue/react 관점에서<br> 생각난거 정리하기 (model - view 사이에서 바인딩이 발생할때의 문제점 등) |
 | 프로젝트 | 가벼운 토이프로젝트 Redux, Mobx로 마이그레이션하면서 상태관리 해보기 |
 | 프로젝트 | 가벼운 토이프로젝트 Context API로 anti-redux하기             |
 | 정리     | 재현이랑 DB 트랜잭션 원리 스터디                             |
 | 정리     | Virtual DOM Custom 관점에서 React vs. Vue 풀어내기                            |
-| 정리     | Dalvik, ART 비교하면서 유저가 설치하는 시간은 오래걸려도 신경쓰지않는다고 했던 거랑 클라이언트 렌더링이랑 엮은 글 쓰기 |
+| 정리     | Dalvik, ART 비교하면서 유저가 설치하는 시간은 오래걸려도<br>  신경쓰지않는다고 했던 거랑 클라이언트 렌더링이랑 엮은 글 쓰기 |
 | 프로젝트 | 자동으로 Rest API Document 만들어주는 서비스                 |
 | 프로젝트 | ㅆㅇㅇㄷ ㄹㅌㅈ                                              |
-| 정리     | 마이크로서비스 컨셉이랑 FE 고도화된 컨셉 공통점(presentation/logic/data에서 (presentation+logic+data)*n으로) 비교해서 글쓰기 |
+| 정리     | 마이크로서비스 컨셉이랑 FE 고도화된 컨셉 공통점<br> (presentation/logic/data에서 (presentation+logic+data)*n으로) 비교해서 글쓰기 |
 | 정리     | [Virtual DOM and Render in Browsers 과정 정리](Web/fe-and-virtual-dom.md) |
-| 정리     | Discord가 React-Native로 iOS에서 Native 수준의 퍼포먼스를 낸 방법](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) : 크롬 프로파일러와 React 프로파일러를 이용해서 느린 부분을 찾고 해결한 방법들 정리 |
+| 정리     | [Discord가 React-Native로 iOS에서 Native 수준의 퍼포먼스를 낸 방법](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) : <br> 크롬 프로파일러와 React 프로파일러를 이용해서 느린 부분을 찾고 해결한 방법들 정리 |
 
 #### Devops
 
@@ -72,7 +72,7 @@
 | 정리     | orchestration - Swarm으로 vhost할 때 레이어링 이슈랑 Kube custom으로 해결할 수 있는 부분 포스팅하기 |
 | 프로제트 | S3에 파일 올릴때마다 Cloudfront 캐시 무효화하는 람다 스크립트 완성하기 |
 | 프로젝트 | 개인 페이지 serverless architecture : Fauna + AWS lambda + netlify (토폴로지 그려놓기) |
-| 정리     | Fauna DB -> DB 비용 X, 다른 리전일 경우 네트워크 트래픽 비용이 발생할 수 있음 / RDS -> 네트워크 비용X, DB 비용O / 두 경우 비용 비교하기 |
+| 정리     | Fauna DB -> DB 비용 X, 다른 리전일 경우 네트워크 트래픽 비용이 발생할 수 있음<br> RDS -> 네트워크 비용X, DB 비용O / 두 경우 비용 비교하기 |
 | 프로젝트 | https://github.com/netlify/netlify-faunadb-example<br/>https://github.com/serverless/examples/tree/master/aws-node-graphql-api-with-dynamodb<br/>https://serverless.com/learn/courses/serverless-for-frontend-developers/ |
 
 #### Android

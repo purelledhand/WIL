@@ -59,6 +59,7 @@
 | 정리     | Dalvik, ART 비교하면서 유저가 설치하는 시간은 오래걸려도<br>  신경쓰지않는다고 했던 거랑 클라이언트 렌더링이랑 엮은 글 쓰기 |
 | 프로젝트 | 자동으로 Rest API Document 만들어주는 서비스                 |
 | 프로젝트 | ㅆㅇㅇㄷ ㄹㅌㅈ                                              |
+| 프로젝트 | 개인페이지내에 pdf 프리뷰어, 업로드 서버리스 함수                                               |
 | 정리     | 마이크로서비스 컨셉이랑 FE 고도화된 컨셉 공통점<br> (presentation/logic/data에서 (presentation+logic+data)*n으로) 비교해서 글쓰기 |
 | 정리     | [Virtual DOM and Render in Browsers 과정 정리](Web/fe-and-virtual-dom.md) |
 | 정리     | [Discord가 React-Native로 iOS에서 Native 수준의 퍼포먼스를 낸 방법](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) : <br> 크롬 프로파일러와 React 프로파일러를 이용해서 느린 부분을 찾고 해결한 방법들 정리 |
@@ -82,7 +83,6 @@
 | 프로젝트 | nmap으로 포트 별 서비스 버전 스캔 후 서비스 버전 별 CVE 알려주는 앱 |
 | 프로젝트 | 여권 안잃어버리게 최근장소 적어놓고 일정시간/장소이동 단위로 리마인딩해주는 |
 | 정리 | Runtime Memory Patch |
-| 정리 | 루팅 탐지 우회 |
 
 #### V8
 

@@ -59,6 +59,7 @@
 | 정리     | Dalvik, ART 비교하면서 유저가 설치하는 시간은 오래걸려도<br>  신경쓰지않는다고 했던 거랑 클라이언트 렌더링이랑 엮은 글 쓰기 |
 | 프로젝트 | 자동으로 Rest API Document 만들어주는 서비스                 |
 | 프로젝트 | ㅆㅇㅇㄷ ㄹㅌㅈ                                              |
+| 프로젝트 | 서비스 유형별로 최적의(최소비용 ...) 인프라 구성 추천해주는 서비스                                               |
 | 프로젝트 | 개인페이지내에 pdf 프리뷰어, 업로드 서버리스 함수                                               |
 | 정리     | 마이크로서비스 컨셉이랑 FE 고도화된 컨셉 공통점<br> (presentation/logic/data에서 (presentation+logic+data)*n으로) 비교해서 글쓰기 |
 | 정리     | [Virtual DOM and Render in Browsers 과정 정리](Web/fe-and-virtual-dom.md) |
